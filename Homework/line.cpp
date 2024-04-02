@@ -148,6 +148,7 @@ int main()
                         }
                     }
                 }
+                cout << ch1 << " has left the line." <<endl;
                 currentLineLength--;
             }
             else
