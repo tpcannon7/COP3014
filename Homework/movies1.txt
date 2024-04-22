@@ -1,0 +1,21 @@
+20
+DRAMA:The Sound of Music, 1965 172 G
+COMEDY:The Cat from Outer Space, 1978 104 G
+COMEDY:The Incredible Mr. Limpet, 1964 99 G
+COMEDY:The Ghost and Mr. Chicken, 1966 90 G
+COMEDY:Barefoot in the Park, 1967 106 G
+ACTION:Deadpool, 2016 112 R
+ACTION:Die Hard, 1988 132 R
+ACTION:Face/Off, 1997 138 R
+DRAMA:Titanic, 1997 194 PG-13
+SCIENCE FICTION:District 9, 2009 112 R
+SCIENCE FICTION:Starship Troopers, 1997 129 R
+SCIENCE FICTION:WarGames, 1983 114 PG
+COMEDY:Monty Python and the Holy Grail, 1975 91 PG
+ACTION:Indiana Jones and the Last Crusade, 1989 127 PG-13
+ACTION:The Mummy, 1999 124 PG-13
+COMEDY:Little Miss Sunshine, 2006 101 R
+ACTION:Avatar, 2009 162 PG-13
+DRAMA:Casablanca, 1942 102 PG
+ACTION:The Mask, 1994 101 PG-13
+ACTION:Black Panther, 2018 134 PG-13

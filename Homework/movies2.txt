@@ -1,0 +1,16 @@
+15
+COMEDY:Groundhog Day, 1992 102 PG
+ACTION:National Treasure, 2004 131 PG
+DRAMA:The Shawshank Redemption, 1994 142 R
+COMEDY:You've Got Mail, 1998 119 PG
+ACTION:Speed, 1994 116 R
+DRAMA:Miller's Crossing, 1990 115 R
+COMEDY:Toy Story, 1995 121 G
+SCIENCE FICTION:Star Wars, 1977 121 PG
+ACTION:The Count of Monte Cristo, 2002 131 PG-13
+SCIENCE FICTION:The Avengers, 2012 143 PG-13
+COMEDY:Rat Race, 2001 112 PG-13
+DRAMA:Apollo 13, 1995 140 PG
+DRAMA:Forrest Gump, 1994 142 PG-13
+SCIENCE FICTION:E.T. the Extra-Terrestrial, 1982 115 PG
+COMEDY:The Big Lebowski, 1998 117 R
